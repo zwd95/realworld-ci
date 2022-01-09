@@ -5,7 +5,7 @@ on:
       - 'v*'
 
 jobs:
-  build-add-deploy
+  build-add-deploy:
     runs-on: ubuntu-latest
     steps:
 
